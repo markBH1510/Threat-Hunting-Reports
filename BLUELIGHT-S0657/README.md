@@ -17,7 +17,7 @@
 8. Exfiltration — OneDrive (T1567.002)
 
 ## Files
-- 📄 [Full Report PDF](./BLUELIGHT TTP Report v1.0.pdf)
+- 📄 [Full Report PDF](./BLUELIGHT_TTP_Report_v1.0.pdf)
 - 🔍 [Detection Queries](./queries/splunk_queries.md)
 
 ## Key IOCs
