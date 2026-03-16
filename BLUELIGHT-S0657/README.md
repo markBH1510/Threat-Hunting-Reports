@@ -19,6 +19,7 @@
 ## Files
 - 📄 [Full Report PDF](./BLUELIGHT_TTP_Report_v1.0.pdf)
 - 🔍 [Detection Queries](./splunk_queries.md)
+- 📈 [Attack Data](./bluelight_splunk_attack_dataset.csv)
 
 ## Key IOCs
 | Indicator | Value |
